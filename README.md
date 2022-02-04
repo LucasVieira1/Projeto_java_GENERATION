@@ -1,8 +1,8 @@
 # 💰 Banco4U 💰
-FAÇA PAGAMENTOS, DEPÓSITOS E CALCULE SEU IMPOSTO DE RENDA EM UM SÓ LUGAR !!!.
+* FAÇA PAGAMENTOS, DEPÓSITOS E CALCULE SEU IMPOSTO DE RENDA EM UM SÓ LUGAR !!!.
 
 ## :dart:Objetivo
-(Escrever objetivo do projeto)
+* (Escrever objetivo do projeto)
 
 ##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 
