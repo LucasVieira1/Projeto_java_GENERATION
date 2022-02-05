@@ -15,10 +15,10 @@
 ## 👨‍💻 Integrantes da Equipe 
 
 * **Lucas Vieira** - https://github.com/LucasVieira1
-* **Hudson Lucas** - (link git)
-* **Bruno Rocha** - (link git)
-* **sarah Ayo** - (link git)
-* **Domenica Araujo** - (link git)
-* **Joice Lopes** - (link git)
+* **Hudson Lucas** - https://github.com/oTalDoHud
+* **Bruno Rocha** - https://github.com/souzabrunord
+* **sarah Ayo** - https://github.com/sarahprog
+* **Domenica Araujo** - https://github.com/domenicaaraujo
+* **Joice Lopes** - https://github.com/joycelopes
 
 
