@@ -2,7 +2,7 @@
 * FAÇA PAGAMENTOS, DEPÓSITOS E CALCULE SEU IMPOSTO DE RENDA EM UM SÓ LUGAR !!!.
 
 ## :dart:Objetivo
-* (Escrever objetivo do projeto)
+* Trazer o conforto e segurança do nosso usuário através de um sistema simples e prático, nosso banco fornece diversas opções, com um diferencial de cálculo de imposto de renda simples ou avançado.
 
 ##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 
@@ -15,10 +15,10 @@
 ## 👨‍💻 Integrantes da Equipe 
 
 * **Lucas Vieira** - https://github.com/LucasVieira1
-* **Hudson (completa o nome)** - (link git)
-* **Bruno (completa o nome)** - (link git)
-* **sarah (completa o nome)** - (link git)
-* **Domênica (completa o nome)** - (link git)
-* **Joice (completa o nome)** - (link git)
+* **Hudson Lucas** - (link git)
+* **Bruno Rocha** - (link git)
+* **sarah Ayo** - (link git)
+* **Domenica Araujo** - (link git)
+* **Joice Lopes** - (link git)
 
 
