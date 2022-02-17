@@ -1,5 +1,5 @@
 # 💰 Banco4U 💰
-* FAÇA PAGAMENTOS, DEPÓSITOS E CALCULE SEU IMPOSTO DE RENDA EM UM SÓ LUGAR !!!.
+* FAÇA PAGAMENTOS, DEPÓSITOS E CALCULE SEU IMPOSTO DE RENDA EM UM SÓ LUGAR !.
 
 ## :dart:Objetivo
 * Trazer o conforto e segurança do nosso usuário através de um sistema simples e prático, nosso banco fornece diversas opções, com um diferencial de cálculo de imposto de renda simples ou avançado.
